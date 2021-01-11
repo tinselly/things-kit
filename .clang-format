@@ -1,0 +1,7 @@
+---
+BasedOnStyle: Mozilla
+Language: Cpp
+ColumnLimit: 80
+BinPackParameters: false
+AllowAllParametersOfDeclarationOnNextLine: true
+...
