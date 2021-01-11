@@ -12,3 +12,7 @@ project (
       CXX
 )
 
+set ( THINGS_KIT_INCLUDE_DIR "${CMAKE_SOURCE_DIR/include}" )
+
+add_subdirectory ( src )
+
